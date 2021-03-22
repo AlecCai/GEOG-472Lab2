@@ -1,0 +1,213 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1657785,49.26843956 ]
+    },
+    "properties": {
+    "Veterinary":"Kitsilano Animal Clinic",
+    "URL":"https://kitsilanoanimalclinic.ca/",
+    "Location":"Address:2645 West 4th Avenue,Vancouver B.C, V6K 1P8",
+    "Contact":"Phone: 604-736-8648"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1866553,49.26795094 ]
+    },
+    "properties": {
+    "Veterinary":"Amherst Veterinary Hospital",
+    "URL":"https://amherstvethospital.com/",
+    "Location":"Address:2045 West 4th Avenue,Vancouver B.C, V6K 1P8",
+    "Contact":"Phone: +16042217771"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1749858,49.26401303 ]
+    },
+    "properties": {
+    "Veterinary":"Acadia Veterinary Clinic Ltd",
+    "URL":"http://www.acadiavetclinic.ca/",
+    "Location":"Address:3142 W Broadway, Vancouver, BC V6K 2H3",
+    "Contact":"Phone: +16047387321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1556599,49.23759039 ]
+    },
+    "properties": {
+    "Veterinary":"West Boulevard Veterinary Clinic",
+    "URL":"http://www.wbvc.bc.ca/",
+    "Location":"Address:5383 West Blvd, Vancouver, BC V6M 3W4",
+    "Contact":"Phone: +16042667421"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1560167,49.23184761 ]
+    },
+    "properties": {
+    "Veterinary":"Kerrisdale Veterinary Hospital",
+    "URL":"https://www.kerrisdalevethospital.com/",
+    "Location":"Address:5999 West Blvd, Vancouver, BC V6M 3X1",
+    "Contact":"Phone:+16042664171"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1456972,49.26340252 ]
+    },
+    "properties": {
+    "Veterinary":"Burrard Animal Hospital + Emergency",
+    "URL":"http://www.burrardvet.com/",
+    "Location":"Address:1788 W Broadway #105, Vancouver, BC V6J 1Y1",
+    "Contact":"Phone:+16047385683"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1474708,49.27274253 ]
+    },
+    "properties": {
+    "Veterinary":"Cypress St. Animal Hospital Vancouver",
+    "URL":"https://cypressvet.com/",
+    "Location":"Address:1889 Cornwall Ave, Vancouver, BC V6J 1C6",
+    "Contact":"Phone: +16047342500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1474708,49.26624268 ]
+    },
+    "properties": {
+    "Veterinary":"Hemlock Animal Hospital Vancouver",
+    "URL":"http://www.hemlockvet.com/",
+    "Location":"Address:1314 W 4th Ave, Vancouver, BC V6H 4A3",
+    "Contact":"Phone: +16045581400"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1354726,49.26624268 ]
+    },
+    "properties": {
+    "Veterinary":"Dr. Richard Calland Veterinary Consulting Service",
+    "URL":"http://richardcalland.com/",
+    "Location":"Address:1527 W 57th Ave, Vancouver, BC V6P 6E9",
+    "Contact":"Phone:+16045657217"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1409851,49.21952339 ]
+    },
+    "properties": {
+    "Veterinary":"Intercity Animal Emergency Clinic",
+    "URL":"http://www.vancouveranimaler.com/",
+    "Location":"Address:580 SE Marine Dr, Vancouver, BC V5X 2T4",
+    "Contact":"Phone:+16043218080"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0929999,49.21161479 ]
+    },
+    "properties": {
+    "Veterinary":"Champlain Animal Clinic",
+    "URL":"https://champlainvet.ca/",
+    "Location":"Address:3150 E 54th Ave #190, Vancouver, BC V5S 1Z1",
+    "Contact":"Phone:+16044390007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0392136,49.22159169 ]
+    },
+    "properties": {
+    "Veterinary":"Pacific Pet Clinic",
+    "URL":"http://www.pacificpetclinic.ca/",
+    "Location":"Address:3628 Kingsway, Vancouver, BC V5R 5M2",
+    "Contact":"Phone:+16044373799"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0257395,49.23342329 ]
+    },
+    "properties": {
+    "Veterinary":"Vancouver Veterinary Hospital",
+    "URL":"http://www.vancouverveterinary.com/",
+    "Location":"Address:1541 Kingsway, Vancouver, BC V5N 2R8",
+    "Contact":"Phone:+16048762231"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1153558,49.25586881 ]
+    },
+    "properties": {
+    "Veterinary":"West King Edward Animal Clinic",
+    "URL":"http://www.vancouvervet.com/",
+    "Location":"Address:3386 Cambie St, Vancouver, BC V5Z 2W5",
+    "Contact":"Phone:+16048734433"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1090026,49.27145076 ]
+    },
+    "properties": {
+    "Veterinary":"Olympic Village Veterinary Clinic",
+    "URL":"http://www.olympicvillagevet.com/",
+    "Location":"Address:189 W 2nd Ave, Vancouver, BC V5Y 1B8",
+    "Contact":"Phone:+12365216131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0464645,49.27077863 ]
+    },
+    "properties": {
+    "Veterinary":"1st Ave Animal Hospital",
+    "URL":"https://www.1staveanimalhospital.com/",
+    "Location":"Address:2800 E 1st Ave, Vancouver, BC V5M 4N9",
+    "Contact":"Phone:+16042545480"
+    }
+  }
+]
+}
